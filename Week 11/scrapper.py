@@ -38,5 +38,5 @@ def scrapper():
 def save_to_file(data, filename):
     pass
 
-def test():
+def testing():
     pass
