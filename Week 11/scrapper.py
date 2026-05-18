@@ -37,3 +37,6 @@ def scrapper():
 # create a function to save data to a csv file
 def save_to_file(data, filename):
     pass
+
+def test():
+    pass
